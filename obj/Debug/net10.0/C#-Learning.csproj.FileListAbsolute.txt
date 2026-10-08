@@ -1,0 +1,14 @@
+P:\C#-Learning\bin\Debug\net10.0\C#-Learning.exe
+P:\C#-Learning\bin\Debug\net10.0\C#-Learning.deps.json
+P:\C#-Learning\bin\Debug\net10.0\C#-Learning.runtimeconfig.json
+P:\C#-Learning\bin\Debug\net10.0\C#-Learning.dll
+P:\C#-Learning\bin\Debug\net10.0\C#-Learning.pdb
+P:\C#-Learning\obj\Debug\net10.0\C#-Learning.GeneratedMSBuildEditorConfig.editorconfig
+P:\C#-Learning\obj\Debug\net10.0\C#-Learning.AssemblyInfoInputs.cache
+P:\C#-Learning\obj\Debug\net10.0\C#-Learning.AssemblyInfo.cs
+P:\C#-Learning\obj\Debug\net10.0\C#-Learning.csproj.CoreCompileInputs.cache
+P:\C#-Learning\obj\Debug\net10.0\C#-Learning.dll
+P:\C#-Learning\obj\Debug\net10.0\refint\C#-Learning.dll
+P:\C#-Learning\obj\Debug\net10.0\C#-Learning.pdb
+P:\C#-Learning\obj\Debug\net10.0\C#-Learning.genruntimeconfig.cache
+P:\C#-Learning\obj\Debug\net10.0\ref\C#-Learning.dll
